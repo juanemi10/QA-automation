@@ -1,0 +1,11 @@
+# Este es un ejercicio
+
+
+
+nombre = input("Ingrese su nombre: ")
+edad = input("Ingrese su edad: ")
+profesion_del_usuario = input("¿Cuál es su Profesión? ")
+
+print("Bienvenido" ,nombre)
+print("Tienes", edad, "Años")
+print("Trabajas de " ,profesion_del_usuario)
