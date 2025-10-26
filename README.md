@@ -1,4 +1,4 @@
-# Pre-Entrega: Automation Testing - Juani Ruiz
+# Pre-Entrega: Automation Testing - Juan Ruiz
 
 ## 🧠 Propósito
 Automatizar los flujos principales de **SauceDemo**:
