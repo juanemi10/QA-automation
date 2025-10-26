@@ -7,7 +7,7 @@ Automatizar los flujos principales de **SauceDemo**:
 - Interacción con productos (carrito)
 
 ## 🛠️ Tecnologías
-- Python 3.10+
+- Python 
 - Selenium WebDriver
 - Pytest
 - Pytest-HTML
