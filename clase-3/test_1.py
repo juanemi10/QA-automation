@@ -81,3 +81,4 @@ def test_sumar_varios(a, b, esperado):
 )
 def test_suma(a, b, esperado):
     assert a + b == esperado
+    assert a + b == esperado
