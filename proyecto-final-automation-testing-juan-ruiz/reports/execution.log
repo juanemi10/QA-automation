@@ -1,0 +1,88 @@
+2025-12-14 16:49:54,127 - INFO - Browser iniciado
+2025-12-14 16:49:54,128 - INFO - Abriendo página de login
+2025-12-14 16:49:54,473 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:49:54,560 - INFO - Ingresando contraseña
+2025-12-14 16:49:54,599 - INFO - Click en botón Login
+2025-12-14 16:49:54,672 - INFO - Verificando elementos clave de UI
+2025-12-14 16:49:54,698 - INFO - Verificando presencia de productos
+2025-12-14 16:49:54,706 - INFO - Obteniendo nombre del primer producto
+2025-12-14 16:49:54,726 - INFO - Obteniendo precio del primer producto
+2025-12-14 16:49:54,744 - INFO - Agregando primer producto al carrito
+2025-12-14 16:49:54,790 - INFO - Verificando contador del carrito
+2025-12-14 16:49:54,803 - INFO - Abriendo carrito
+2025-12-14 16:49:54,844 - INFO - Verificando que el carrito esté cargado
+2025-12-14 16:49:54,862 - INFO - Verificando productos en el carrito
+2025-12-14 16:49:54,869 - INFO - Obteniendo nombre y precio del producto
+2025-12-14 16:49:56,984 - INFO - Browser cerrado
+2025-12-14 16:50:00,917 - INFO - Browser iniciado
+2025-12-14 16:50:00,918 - INFO - Abriendo página de login
+2025-12-14 16:50:01,267 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:01,330 - INFO - Ingresando contraseña
+2025-12-14 16:50:01,369 - INFO - Click en botón Login
+2025-12-14 16:50:01,447 - INFO - Agregando primer producto al carrito
+2025-12-14 16:50:01,501 - INFO - Abriendo carrito
+2025-12-14 16:50:01,548 - INFO - Click en botón Checkout
+2025-12-14 16:50:03,700 - INFO - Browser cerrado
+2025-12-14 16:50:07,609 - INFO - Browser iniciado
+2025-12-14 16:50:07,610 - INFO - Abriendo página de login
+2025-12-14 16:50:07,952 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:08,010 - INFO - Ingresando contraseña
+2025-12-14 16:50:08,048 - INFO - Click en botón Login
+2025-12-14 16:50:08,124 - INFO - Verificando login exitoso
+2025-12-14 16:50:08,130 - INFO - Agregando primer producto al carrito
+2025-12-14 16:50:08,183 - INFO - Verificando contador del carrito
+2025-12-14 16:50:08,199 - INFO - Abriendo carrito
+2025-12-14 16:50:08,244 - INFO - Verificando productos en el carrito
+2025-12-14 16:50:08,251 - INFO - Click en botón Checkout
+2025-12-14 16:50:08,299 - INFO - Completando formulario de checkout
+2025-12-14 16:50:08,410 - INFO - Click en Continue
+2025-12-14 16:50:08,465 - INFO - Click en Finish
+2025-12-14 16:50:08,513 - INFO - Verificando que la compra fue completada
+2025-12-14 16:50:10,622 - INFO - Browser cerrado
+2025-12-14 16:50:14,543 - INFO - Browser iniciado
+2025-12-14 16:50:14,544 - INFO - Abriendo página de login
+2025-12-14 16:50:14,879 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:14,939 - INFO - Ingresando contraseña
+2025-12-14 16:50:14,977 - INFO - Click en botón Login
+2025-12-14 16:50:15,054 - INFO - Verificando login exitoso
+2025-12-14 16:50:15,058 - INFO - Obteniendo título de la página
+2025-12-14 16:50:15,082 - INFO - Verificando presencia de productos
+2025-12-14 16:50:15,090 - INFO - Obteniendo nombre del primer producto
+2025-12-14 16:50:15,107 - INFO - Obteniendo precio del primer producto
+2025-12-14 16:50:15,125 - INFO - Verificando elementos clave de UI
+2025-12-14 16:50:17,249 - INFO - Browser cerrado
+2025-12-14 16:50:21,177 - INFO - Browser iniciado
+2025-12-14 16:50:21,178 - INFO - Abriendo página de login
+2025-12-14 16:50:21,535 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:21,594 - INFO - Ingresando contraseña
+2025-12-14 16:50:21,630 - INFO - Click en botón Login
+2025-12-14 16:50:21,706 - INFO - Verificando login exitoso
+2025-12-14 16:50:23,811 - INFO - Browser cerrado
+2025-12-14 16:50:27,709 - INFO - Browser iniciado
+2025-12-14 16:50:27,710 - INFO - Abriendo página de login
+2025-12-14 16:50:28,030 - INFO - Ingresando usuario: locked_out_user
+2025-12-14 16:50:28,091 - INFO - Ingresando contraseña
+2025-12-14 16:50:28,130 - INFO - Click en botón Login
+2025-12-14 16:50:28,186 - INFO - Obteniendo mensaje de error
+2025-12-14 16:50:30,294 - INFO - Browser cerrado
+2025-12-14 16:50:34,307 - INFO - Browser iniciado
+2025-12-14 16:50:34,308 - INFO - Abriendo página de login
+2025-12-14 16:50:34,652 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:34,712 - INFO - Ingresando contraseña
+2025-12-14 16:50:34,752 - INFO - Click en botón Login
+2025-12-14 16:50:34,807 - INFO - Obteniendo mensaje de error
+2025-12-14 16:50:36,917 - INFO - Browser cerrado
+2025-12-14 16:50:40,912 - INFO - Browser iniciado
+2025-12-14 16:50:40,913 - INFO - Abriendo página de login
+2025-12-14 16:50:41,250 - INFO - Ingresando usuario: locked_out_user
+2025-12-14 16:50:41,313 - INFO - Ingresando contraseña
+2025-12-14 16:50:41,353 - INFO - Click en botón Login
+2025-12-14 16:50:41,409 - INFO - Obteniendo mensaje de error
+2025-12-14 16:50:43,530 - INFO - Browser cerrado
+2025-12-14 16:50:47,478 - INFO - Browser iniciado
+2025-12-14 16:50:47,479 - INFO - Abriendo página de login
+2025-12-14 16:50:47,845 - INFO - Ingresando usuario: standard_user
+2025-12-14 16:50:47,906 - INFO - Ingresando contraseña
+2025-12-14 16:50:47,946 - INFO - Click en botón Login
+2025-12-14 16:50:48,001 - INFO - Obteniendo mensaje de error
+2025-12-14 16:50:50,107 - INFO - Browser cerrado
