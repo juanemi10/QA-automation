@@ -1,5 +1,3 @@
-pytest
 selenium
+pytest
 pytest-html
-webdriver-manager
-requests
