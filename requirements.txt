@@ -1,3 +1,6 @@
-selenium
 pytest
+selenium
 pytest-html
+faker
+webdriver-manager
+requests
