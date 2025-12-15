@@ -136,9 +136,10 @@ pytest -v --html=reports/reporte.html
 ```
 
 ## 📋 Casos de prueba implementados
-1. **Login:** Verifica acceso con credenciales válidas.  
-2. **Inventario:** Verifica título, productos visibles y presencia de interfaz.  
-3. **Carrito:** Añade producto, valida contador y producto en carrito.  
+Los test con pytest corren 12/12
+Fallo la integracion CI y CD
+Da errores de versiones con selenium,
+webdriver en github/workflow actions
 
 ## 📂 Reportes
 El reporte HTML se genera automáticamente en `reports/reporte.html`.  
